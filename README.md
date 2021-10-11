@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning web development, mobile development, A.I.
 - 💞️ I’m looking to collaborate on projects related with my passions and interests.
 - 📫 How to reach me :
-      /n Youtube channel: https://www.youtube.com/channel/UCHbigjzeCcJD80xlNay93yQ
-      /n Instagram: @ari4n.12
-      /n E-mail: arianramirezmendoza@gmail.com
+      * Youtube channel: https://www.youtube.com/channel/UCHbigjzeCcJD80xlNay93yQ
+      * Instagram: @ari4n.12
+      * E-mail: arianramirezmendoza@gmail.com
       
 
 <!---
