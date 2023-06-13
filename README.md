@@ -1,4 +1,4 @@
-<img align="right" src="https://media.giphy.com/media/wpBCnSSBCbh3q/giphy.gif" alt="gif" width="100%">
+<img align="right" src="https://media.giphy.com/media/wpBCnSSBCbh3q/giphy.gif" alt="gif" width="100%" height="200px" style="margin-bottom: 20px">
 <h1 align="center">Hi 👋, I'm Arian Ramirez</h1>
 <h3 align="center">A passionate software engineer student from Perú</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="gif" width="400px">
