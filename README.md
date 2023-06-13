@@ -2,10 +2,6 @@
 <h3 align="center">A passionate software engineer student from Perú</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="gif" width="400px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arianrm&label=Profile%20views&color=0e75b6&style=flat" alt="arianrm" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arianrm" alt="arianrm" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ari4n12" target="blank"><img src="https://img.shields.io/twitter/follow/ari4n12?logo=twitter&style=for-the-badge" alt="ari4n12" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development, Mobile Development, Agile Methods, Artificial Inteligence**
