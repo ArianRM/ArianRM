@@ -5,8 +5,6 @@
 <img align="right" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="gif" width="400px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arianrm&label=Profile%20views&color=0e75b6&style=flat" alt="arianrm" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ari4n12" target="blank"><img src="https://img.shields.io/twitter/follow/ari4n12?logo=twitter&style=for-the-badge" alt="ari4n12" /></a> </p>
-
 - 🌱 I’m currently learning **Web Development, Mobile Development, Agile Methods, Artificial Inteligence**
 
 - 💬 Ask me about **whatever, but careful... I'm newbie**
@@ -15,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ari4n12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ari4n12" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arianrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arianrm" height="30" width="40" /></a>
 <a href="https://instagram.com/ari4n.12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ari4n.12" height="30" width="40" /></a>
 </p>
