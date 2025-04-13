@@ -5,9 +5,7 @@
 <img align="right" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="gif" width="400px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arianrm&label=Profile%20views&color=0e75b6&style=flat" alt="arianrm" /> </p>
 
-- 🌱 I’m currently learning **Web Development, Mobile Development, Agile Methods, Artificial Inteligence**
-
-- 💬 Ask me about **whatever, but careful... I'm newbie**
+- 🌱 I have experience developing projects of **Web Development and Mobile Development**, also as **IT Auditor**
 
 - 📫 How to reach me **arianramirezmendoza@gmail.com**
 
