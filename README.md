@@ -7,7 +7,7 @@
 
 - 🌱 I have experience developing projects of **Web Development and Mobile Development**, also as **IT Auditor**
 
-<h3 align="left">Feel free to contact with me in:</h3>
+<h3 align="left">Feel free to message me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arianrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arianrm" height="30" width="40" /></a>
 </p>
