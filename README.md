@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Arian Ramirez</h1>
 <h3 align="center">FULL-STACK SOFTWARE DEVELOPER</h3>
 <h3 align="center">& Future Start Up Founder</h3>
-<img align="right" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="gif" width="400px">
+<img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJkNXV2c2lubHc2OWdqMmRtdThzeHNlbW1zdWp5NW44NmlmMmdncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="gif" width="400px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arianrm&label=Profile%20views&color=0e75b6&style=flat" alt="arianrm" /> </p>
 
 - 🌱 I have experience developing projects of **Web Development and Mobile Development**, also as **IT Auditor**
