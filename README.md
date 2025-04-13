@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400/6c0f9b95746151.5e9ecde69599e.gif) 
 
 <h1 align="center">Hi 👋, I'm Arian Ramirez</h1>
-<h3 align="center">A passionate software engineer student from Perú</h3>
+<h3 align="center">FULL-STACK SOFTWARE DEVELOPER</h3>
 <img align="right" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" alt="gif" width="400px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arianrm&label=Profile%20views&color=0e75b6&style=flat" alt="arianrm" /> </p>
 
