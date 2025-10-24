@@ -22,5 +22,5 @@
 <p><img src="https://tryhackme-badges.s3.amazonaws.com/ari4n.png" alt="Your Image Badge" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arianrm&show_icons=true&locale=en" alt="arianrm" /></p>
-<p><iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4691459" style='border:none;'></iframe></p>
+<p><img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4691459" style='border:none;'></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arianrm&" alt="arianrm" /></p>
