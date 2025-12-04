@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working in IT Audit and Cibersecurity<br>I'm looking to collaborate in startups.<br>
+I'm currently working in IT Audit and Cibersecurity<br>I'm looking to work in software development & collaborate in startups.<br>
 
 
 ## 🌐 Socials:
